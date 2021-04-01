@@ -16,7 +16,7 @@ a{
     'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 header{
-    background-image: url(concessionaria.jpg);
+    background-image: url(images/concessionaria.jpg);
     background-size: cover;
     background-position: center;
     height: 500px;
